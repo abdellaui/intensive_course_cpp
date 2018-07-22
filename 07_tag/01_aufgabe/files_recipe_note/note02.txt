@@ -1,0 +1,4 @@
+class Note
+Title:C++
+Content:Reinterpret Cast is very bad. I hope I must never use it. At least it is not aaaas evil as... you know... C-Style Casts
+Topic:Programming

@@ -1,0 +1,33 @@
+{
+    "files.associations": {
+        "__config": "cpp",
+        "__nullptr": "cpp",
+        "exception": "cpp",
+        "initializer_list": "cpp",
+        "new": "cpp",
+        "stdexcept": "cpp",
+        "typeinfo": "cpp",
+        "__locale": "cpp",
+        "__split_buffer": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+<<<<<<< HEAD
+        "__string": "cpp",
+        "algorithm": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "ratio": "cpp",
+        "random": "cpp",
+        "ctime": "cpp",
+        "ios": "cpp",
+        "__bit_reference": "cpp",
+        "memory": "cpp",
+        "type_traits": "cpp"
+=======
+        "memory": "cpp",
+        "algorithm": "cpp",
+        "iostream": "cpp"
+>>>>>>> 4a5d451e78470caa5096520a4fe30a1cf0f6f018
+    }
+}

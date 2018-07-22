@@ -1,0 +1,4 @@
+class Recipe
+Title:Gulaschsuppe
+Content:Ich habe leider vergessen wie das geht...
+Flags:00001010

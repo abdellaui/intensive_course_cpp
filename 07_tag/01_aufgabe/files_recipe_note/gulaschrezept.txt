@@ -1,0 +1,5 @@
+class Recipe
+Title:Gulasch
+Content:Feierliches fuer die Festtage. Auf jeden Fall lange kochen lassen.
+Time:80
+Flags:00000010

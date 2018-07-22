@@ -1,0 +1,5 @@
+class Recipe
+Title:Testrezept
+Content:Irgendwas, was man braucht um ein Rezept zu kreieren.
+Time:30
+Flags:00110100

@@ -1,0 +1,4 @@
+class Note
+Title:Einkaufsliste
+Content:Kartoffeln, Zwiebeln, Käse, Kochtopf, Herd, ...
+Topic:Kochen

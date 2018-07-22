@@ -1,0 +1,5 @@
+class Recipe
+Title:Brot
+Content:Mehl und Wasser vermengen und Backen. Mehr braucht man fuer Brot doch nicht, oder?
+Time:120
+Flags:00110110

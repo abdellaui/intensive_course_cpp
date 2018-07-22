@@ -1,0 +1,5 @@
+class Recipe
+Title:Butterbrot
+Content:Nimm ein Brot und Toaste es. Waehrend es tostet nimm Butter aus dem Kuehlschrank und warte ungeduldig umherlaufend. Erschick, wenn der Toaster das Brot ausspuckt. Anschliessend die Butter auf dem noch warmen Brot verteilen und servieren.
+Time:5
+Flags:00010000

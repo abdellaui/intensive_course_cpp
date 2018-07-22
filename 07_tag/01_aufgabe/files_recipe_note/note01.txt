@@ -1,0 +1,4 @@
+class Note
+Title:Remember
+Content:It ist very important that I remember that!
+Topic:To Remember

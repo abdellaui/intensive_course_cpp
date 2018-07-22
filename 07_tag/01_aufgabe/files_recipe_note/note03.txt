@@ -1,0 +1,4 @@
+class Note
+Title:Bananenbrot-Rezept
+Content:Ich muss mir unbedingt ein neues Rezept dafür suchen. Das alte ist mies.
+Topic:Kochen

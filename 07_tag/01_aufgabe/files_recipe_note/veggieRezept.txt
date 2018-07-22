@@ -1,0 +1,5 @@
+class Recipe
+Title:Eiswuerfel
+Content:Nimm Wasser, fuelle es in eine Eiswuerfelform und friere es ein. Es empfihelt sich, Eiswuerfel nur als Vorspeise zu essen gefolgt von einem etwas reichhaltigeren Hauptgang, da sie doch vergleichsweise geringen Neaherwert besitzen.
+Time:200min
+Flags:00010100

@@ -1,0 +1,575 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		B80082042048D6690069FE7B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B80081772048D5620069FE7B /* 01_tag.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B80081CC2048D5DC0069FE7B;
+			remoteInfo = 01_aufgabe;
+		};
+		B80082062048D6690069FE7B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B80081772048D5620069FE7B /* 01_tag.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B80081D72048D5EA0069FE7B;
+			remoteInfo = 02_aufgabe;
+		};
+		B80082082048D6690069FE7B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B80081772048D5620069FE7B /* 01_tag.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B80081E22048D5F70069FE7B;
+			remoteInfo = 03_aufgabe;
+		};
+		B800820A2048D6690069FE7B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B80081772048D5620069FE7B /* 01_tag.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B80081ED2048D6040069FE7B;
+			remoteInfo = 04_aufgabe;
+		};
+		B80082992048D9840069FE7B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B800821F2048D6820069FE7B /* 02_tag.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B80082342048D6C80069FE7B;
+			remoteInfo = 01_aufgabe;
+		};
+		B800829B2048D9840069FE7B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B800821F2048D6820069FE7B /* 02_tag.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B800823F2048D6D50069FE7B;
+			remoteInfo = 02_aufgabe;
+		};
+		B800829D2048D9840069FE7B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B800821F2048D6820069FE7B /* 02_tag.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B800824A2048D6E10069FE7B;
+			remoteInfo = 03_aufgabe;
+		};
+		B80082A22048D9840069FE7B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B80081A92048D5970069FE7B /* 03_tag.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B800825E2048D8B70069FE7B;
+			remoteInfo = 01_aufgabe;
+		};
+		B80082A42048D9840069FE7B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B80081A92048D5970069FE7B /* 03_tag.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B80082692048D8C00069FE7B;
+			remoteInfo = 02_aufgabe;
+		};
+		B80082A62048D9840069FE7B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B80081A92048D5970069FE7B /* 03_tag.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B80082742048D8CB0069FE7B;
+			remoteInfo = 03_aufgabe;
+		};
+		B87A5F20204978B3001FD49F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B80081C22048D5B60069FE7B /* 04_tag.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B80082AC2048D9E90069FE7B;
+			remoteInfo = 01_aufgabe;
+		};
+		B87A5F22204978B3001FD49F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B80081C22048D5B60069FE7B /* 04_tag.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B80082B72048D9F50069FE7B;
+			remoteInfo = 02_aufgabe;
+		};
+		B89979272051269900D0044E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B8DE6BFD205028880032235D /* 07_tag.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B8DE6C1D205028C80032235D;
+			remoteInfo = 01_aufgabe;
+		};
+		B899792A2051269900D0044E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B89979112051269800D0044E /* 08_tag.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B89979072051269800D0044E;
+			remoteInfo = 08_tag;
+		};
+		B8DE6C12205028890032235D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B8F6235C204E87140016DE8D /* 06_tag.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B8F62366204E872D0016DE8D;
+			remoteInfo = 01_aufgabe;
+		};
+		B8DE6C14205028890032235D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B8F6235C204E87140016DE8D /* 06_tag.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B8F62371204E87470016DE8D;
+			remoteInfo = 02_aufgabe;
+		};
+		B8F6233E204E86DF0016DE8D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B87A5F3A204978D6001FD49F /* 05_tag.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B87A5F44204978F0001FD49F;
+			remoteInfo = 01_aufgabe;
+		};
+		B8F62340204E86DF0016DE8D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B87A5F3A204978D6001FD49F /* 05_tag.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B87A5F4F20497901001FD49F;
+			remoteInfo = 02_aufgabe;
+		};
+		B8F62342204E86DF0016DE8D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B87A5F3A204978D6001FD49F /* 05_tag.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = FDF50C62204D40FB00F65226;
+			remoteInfo = 03_aufgabe;
+		};
+		B8F62344204E86DF0016DE8D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B87A5F3A204978D6001FD49F /* 05_tag.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = FDF50C6D204D410700F65226;
+			remoteInfo = 04_aufgabe;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		B80081772048D5620069FE7B /* 01_tag.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = 01_tag.xcodeproj; path = 01_tag/01_tag.xcodeproj; sourceTree = "<group>"; };
+		B80081A92048D5970069FE7B /* 03_tag.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = 03_tag.xcodeproj; path = 03_tag/03_tag.xcodeproj; sourceTree = "<group>"; };
+		B80081C22048D5B60069FE7B /* 04_tag.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = 04_tag.xcodeproj; path = 04_tag/04_tag.xcodeproj; sourceTree = "<group>"; };
+		B800821F2048D6820069FE7B /* 02_tag.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = 02_tag.xcodeproj; path = 02_tag/02_tag.xcodeproj; sourceTree = "<group>"; };
+		B87A5F3A204978D6001FD49F /* 05_tag.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = 05_tag.xcodeproj; path = 05_tag/05_tag.xcodeproj; sourceTree = "<group>"; };
+		B89979112051269800D0044E /* 08_tag.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = 08_tag.xcodeproj; path = 08_tag/08_tag.xcodeproj; sourceTree = "<group>"; };
+		B8DE6BFD205028880032235D /* 07_tag.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = 07_tag.xcodeproj; path = 07_tag/07_tag.xcodeproj; sourceTree = "<group>"; };
+		B8F6235C204E87140016DE8D /* 06_tag.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = 06_tag.xcodeproj; path = 06_tag/06_tag.xcodeproj; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		B80081512048D53C0069FE7B = {
+			isa = PBXGroup;
+			children = (
+				B89979112051269800D0044E /* 08_tag.xcodeproj */,
+				B8DE6BFD205028880032235D /* 07_tag.xcodeproj */,
+				B8F6235C204E87140016DE8D /* 06_tag.xcodeproj */,
+				B87A5F3A204978D6001FD49F /* 05_tag.xcodeproj */,
+				B80081C22048D5B60069FE7B /* 04_tag.xcodeproj */,
+				B80081A92048D5970069FE7B /* 03_tag.xcodeproj */,
+				B800821F2048D6820069FE7B /* 02_tag.xcodeproj */,
+				B80081772048D5620069FE7B /* 01_tag.xcodeproj */,
+			);
+			sourceTree = "<group>";
+		};
+		B80081782048D5620069FE7B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B80082052048D6690069FE7B /* 01_aufgabe */,
+				B80082072048D6690069FE7B /* 02_aufgabe */,
+				B80082092048D6690069FE7B /* 03_aufgabe */,
+				B800820B2048D6690069FE7B /* 04_aufgabe */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B80081AA2048D5970069FE7B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B80082A32048D9840069FE7B /* 01_aufgabe */,
+				B80082A52048D9840069FE7B /* 02_aufgabe */,
+				B80082A72048D9840069FE7B /* 03_aufgabe */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B80081C32048D5B60069FE7B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B87A5F21204978B3001FD49F /* 01_aufgabe */,
+				B87A5F23204978B3001FD49F /* 02_aufgabe */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B80082202048D6820069FE7B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B800829A2048D9840069FE7B /* 01_aufgabe */,
+				B800829C2048D9840069FE7B /* 02_aufgabe */,
+				B800829E2048D9840069FE7B /* 03_aufgabe */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B87A5F3B204978D6001FD49F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B8F6233F204E86DF0016DE8D /* 01_aufgabe */,
+				B8F62341204E86DF0016DE8D /* 02_aufgabe */,
+				B8F62343204E86DF0016DE8D /* 03_aufgabe */,
+				B8F62345204E86DF0016DE8D /* 04_aufgabe */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B89979122051269800D0044E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B899792B2051269900D0044E /* 08_tag */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B8DE6BFE205028880032235D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B89979282051269900D0044E /* 01_aufgabe */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B8F6235D204E87140016DE8D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B8DE6C13205028890032235D /* 01_aufgabe */,
+				B8DE6C15205028890032235D /* 02_aufgabe */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		B80081522048D53C0069FE7B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0920;
+				ORGANIZATIONNAME = Sahin;
+			};
+			buildConfigurationList = B80081552048D53D0069FE7B /* Build configuration list for PBXProject "intensive_course" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = B80081512048D53C0069FE7B;
+			productRefGroup = B80081512048D53C0069FE7B;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = B80081782048D5620069FE7B /* Products */;
+					ProjectRef = B80081772048D5620069FE7B /* 01_tag.xcodeproj */;
+				},
+				{
+					ProductGroup = B80082202048D6820069FE7B /* Products */;
+					ProjectRef = B800821F2048D6820069FE7B /* 02_tag.xcodeproj */;
+				},
+				{
+					ProductGroup = B80081AA2048D5970069FE7B /* Products */;
+					ProjectRef = B80081A92048D5970069FE7B /* 03_tag.xcodeproj */;
+				},
+				{
+					ProductGroup = B80081C32048D5B60069FE7B /* Products */;
+					ProjectRef = B80081C22048D5B60069FE7B /* 04_tag.xcodeproj */;
+				},
+				{
+					ProductGroup = B87A5F3B204978D6001FD49F /* Products */;
+					ProjectRef = B87A5F3A204978D6001FD49F /* 05_tag.xcodeproj */;
+				},
+				{
+					ProductGroup = B8F6235D204E87140016DE8D /* Products */;
+					ProjectRef = B8F6235C204E87140016DE8D /* 06_tag.xcodeproj */;
+				},
+				{
+					ProductGroup = B8DE6BFE205028880032235D /* Products */;
+					ProjectRef = B8DE6BFD205028880032235D /* 07_tag.xcodeproj */;
+				},
+				{
+					ProductGroup = B89979122051269800D0044E /* Products */;
+					ProjectRef = B89979112051269800D0044E /* 08_tag.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		B80082052048D6690069FE7B /* 01_aufgabe */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = 01_aufgabe;
+			remoteRef = B80082042048D6690069FE7B /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B80082072048D6690069FE7B /* 02_aufgabe */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = 02_aufgabe;
+			remoteRef = B80082062048D6690069FE7B /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B80082092048D6690069FE7B /* 03_aufgabe */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = 03_aufgabe;
+			remoteRef = B80082082048D6690069FE7B /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B800820B2048D6690069FE7B /* 04_aufgabe */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = 04_aufgabe;
+			remoteRef = B800820A2048D6690069FE7B /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B800829A2048D9840069FE7B /* 01_aufgabe */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = 01_aufgabe;
+			remoteRef = B80082992048D9840069FE7B /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B800829C2048D9840069FE7B /* 02_aufgabe */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = 02_aufgabe;
+			remoteRef = B800829B2048D9840069FE7B /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B800829E2048D9840069FE7B /* 03_aufgabe */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = 03_aufgabe;
+			remoteRef = B800829D2048D9840069FE7B /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B80082A32048D9840069FE7B /* 01_aufgabe */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = 01_aufgabe;
+			remoteRef = B80082A22048D9840069FE7B /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B80082A52048D9840069FE7B /* 02_aufgabe */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = 02_aufgabe;
+			remoteRef = B80082A42048D9840069FE7B /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B80082A72048D9840069FE7B /* 03_aufgabe */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = 03_aufgabe;
+			remoteRef = B80082A62048D9840069FE7B /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B87A5F21204978B3001FD49F /* 01_aufgabe */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = 01_aufgabe;
+			remoteRef = B87A5F20204978B3001FD49F /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B87A5F23204978B3001FD49F /* 02_aufgabe */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = 02_aufgabe;
+			remoteRef = B87A5F22204978B3001FD49F /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B89979282051269900D0044E /* 01_aufgabe */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = 01_aufgabe;
+			remoteRef = B89979272051269900D0044E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B899792B2051269900D0044E /* 08_tag */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = 08_tag;
+			remoteRef = B899792A2051269900D0044E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B8DE6C13205028890032235D /* 01_aufgabe */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = 01_aufgabe;
+			remoteRef = B8DE6C12205028890032235D /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B8DE6C15205028890032235D /* 02_aufgabe */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = 02_aufgabe;
+			remoteRef = B8DE6C14205028890032235D /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B8F6233F204E86DF0016DE8D /* 01_aufgabe */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = 01_aufgabe;
+			remoteRef = B8F6233E204E86DF0016DE8D /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B8F62341204E86DF0016DE8D /* 02_aufgabe */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = 02_aufgabe;
+			remoteRef = B8F62340204E86DF0016DE8D /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B8F62343204E86DF0016DE8D /* 03_aufgabe */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = 03_aufgabe;
+			remoteRef = B8F62342204E86DF0016DE8D /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B8F62345204E86DF0016DE8D /* 04_aufgabe */ = {
+			isa = PBXReferenceProxy;
+			fileType = "compiled.mach-o.executable";
+			path = 04_aufgabe;
+			remoteRef = B8F62344204E86DF0016DE8D /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
+/* Begin XCBuildConfiguration section */
+		B800815F2048D53D0069FE7B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		B80081602048D53D0069FE7B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B80081552048D53D0069FE7B /* Build configuration list for PBXProject "intensive_course" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B800815F2048D53D0069FE7B /* Debug */,
+				B80081602048D53D0069FE7B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B80081522048D53C0069FE7B /* Project object */;
+}
